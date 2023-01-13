@@ -1,0 +1,36 @@
+body{
+    margin: 0;
+    padding: 0;
+    display: flex;
+    align-items: center;
+    font-family: Arial, sans-serif;
+}
+
+* {
+    box-sizing: border-box;
+}
+h1{
+    font-size: 50px;
+}
+p{
+    font-size: 18px;
+    margin: 30px 0px;
+}
+a{
+    font-size: 18px;
+    font-weight: 700;
+    color: #FFFFFF;
+    background: #FF6861;
+    border-radius: 100px;
+    padding: 22px 70px;
+    display: block;
+    width: 219px;
+    text-decoration: none;
+}
+div{
+    width: 465px;
+    margin: 0px 180px 0px 245px;
+}
+img{
+    margin-top: 80px;
+}
